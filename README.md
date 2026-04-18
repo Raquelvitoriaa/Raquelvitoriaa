@@ -1,7 +1,7 @@
 <h1 aling="center">
-## 🏴‍☠️ Hi friends, im a Raquel👋
+🏴‍☠️ Hi friends, im a Raquel👋
 </h1><p aling="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF4500&size=25&center=true&vCenter=true&width=600&lines=Explorando+o+mundo+da+programação;Em+busca+no+meu+one+piece;C,+Java,+Javascript,+💻;o+mundo+é+vasto"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0000FF&size=25&center=true&vCenter=true&width=600&lines=Explorando+o+mundo+da+programação;Em+busca+do+meu+one+piece;C,+Java,+Javascript,+💻; Esqueça+o+que+você+não+tem,+olhe+para+o+que+você+tem"/>
 </p>
 <!--GIF ONE PIECE (TENOR)-->
 <p aling="center">
