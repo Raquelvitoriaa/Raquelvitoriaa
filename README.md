@@ -55,7 +55,9 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-vit%C3%B3ria-3635873b5)
-</div>---
+</div>
+
+---
 
 ## 🎬 The end...
 
@@ -65,3 +67,5 @@
 <p align="center">
   <i> "The road so far..."</i>
 </p>
+
+---
