@@ -54,3 +54,23 @@
 </p><p align="center">
   <i>🔥 "The road so far..."</i>
 </p>
+
+---
+
+🔮 FINAL
+
+<p align="center">
+  <b style="color:red;">"The road so far..."</b>
+</p><br><!-- DEAN --><p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaW9teWI2eDZsbms2MnV3b29vcXdsYzhsZXFub3ByOXoyZjZlZzZyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JlVkLKuxRSvLy/giphy.gif" width="500px">
+</p><p align="center">
+  <i>🗡️ "We save people..."</i>
+</p><br><!-- TRANSIÇÃO --><p align="center">
+  ⬇️
+</p><br><!-- SAM --><p align="center">
+  <img src="https://media0.giphy.com/media/qimBHFPyC1b2/giphy.gif" width="500px">
+</p><p align="center">
+  <i>🔥 "...we carry on."</i>
+</p><br><p align="center">
+  ☠️ <b>Carry on...</b>
+</p>
