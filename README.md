@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=600&lines=Saving+people...;+hunting+things...;+the+family+business+🗡️...">
 </p>
+
 ---
 
 ## 🔮 About Me
@@ -28,7 +29,9 @@
 <div aling="center">
 <img src="https://skillicons.dev/icons?i=c,java,js,html,css,git,github" />
 
-</div>---
+</div>
+
+---
 
 ## 🧭 Records
 
@@ -36,7 +39,9 @@
   <img heigth="150em" src="https://github-readme-stats.vercel.app/api?username=Raquelvitoriaa&show_icons=true&hide_border=true&title_color=FF0000&icon_color=000000"/>
   <img heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquelvitoriaa&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=000000"/>
 
-</div>---
+</div>
+
+---
 
 ## 🛡️✡ Phrases
 
