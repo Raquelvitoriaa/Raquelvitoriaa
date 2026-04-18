@@ -49,9 +49,8 @@
 
 </div>
 
-<p aling="center">
-  <img src="https://media0.giphy.com/media/quimBHFPyC1b2/giphy.gif"width="500px">
-</p>
-<p aling="center">
-  <i>🔥"The road so far..."</i>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyaOTUyZXJrdmZqNW1lOGY2OXdtYzR5bzd iOGQ2Ym1sYnhlNXp2ZGl uM2RhMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qimBHFPyC1b2/giphy.gif" width="500px">
+</p><p align="center">
+  <i>🔥 "The road so far..."</i>
 </p>
