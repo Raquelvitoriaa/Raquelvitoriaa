@@ -3,7 +3,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaW9teWl2eDZsbms2MnV3b29vcXdsYzhsZXFub3ByOXoyZjZlZzZyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JlVkLKuxRSvLy/giphy.gif" width="700px">
 </p>
 <h1 aling="center">
-🩸 ℌ𝔦 𝔣𝔯𝔦𝔢𝔫𝔡𝔰! ℑ𝔪 𝔞 ℜ𝔞𝔮𝔲𝔢𝔩 𝔙𝔦𝔱𝔬𝔯𝔦𝔞 🩸
+🩸 ℌ𝔦 𝔣𝔯𝔦𝔢𝔫𝔡𝔰! ℑ'𝔪 ℜ𝔞𝔮𝔲𝔢𝔩 𝔙𝔦𝔱𝔬𝔯𝔦𝔞 🩸
 </h1>
 <p aling="center">
   <i>"You can't escape the past."</i>
