@@ -50,7 +50,7 @@
 </div>
 
 <p aling="center">
-  <img src="https://media0.giphy.com/media/quimBHFPyC1b2/giphy.gif" width="500px">
+  <img src="https://media0.giphy.com/media/quimBHFPyC1b2/giphy.gif"width="500px">
 </p>
 <p aling="center">
   <i>🔥"The road so far..."</i>
