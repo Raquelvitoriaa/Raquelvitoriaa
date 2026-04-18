@@ -24,7 +24,7 @@
 ## 📜 Tecnologias que estou aprendendo 
 <div aling="center">
 
-<img src="https://skillicons.dev/icons?¡=c,html,css,git,github" />
+<img src="https://skillicons.dev/icons?¡=c,java,js,html,css,git,github" />
 
 </div>
 
