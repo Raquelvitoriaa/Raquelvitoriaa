@@ -44,7 +44,7 @@
 ## 🎯 Contato
 
 <div aling="center">
-""LinkedIn" (https://img.shields.io/bagde/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)("https://www.linkedin.com/in/raquel-vit%C3%B3ria-3635873b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app")
+""LinkedIn" (https://img.shields.io/bagde/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/raquel-vit%C3%B3ria-3635873b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 https://imgproxy.attic.sh/insecure/f:png/plain/https://attic.sh/oj5hbxm3tmndwphh382g11onprit
