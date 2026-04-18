@@ -11,7 +11,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=600&lines=Saving+people...;+hunting+things...;+the+family+business+🗡️...">
-</p>---
+</p>
+---
 
 ## 🔮 About Me
 
