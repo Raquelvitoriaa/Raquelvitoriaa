@@ -13,12 +13,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=600&lines=Saving+people...;+hunting+things...;+the+family+business+🗡️...">
 </p>
 
-## 🔮 Sobre mim
+## 🔮 About Me
 
-* 👩🏽‍💻 Iniciante em programação;
-* 📚 Estudante de Análise e Desenvolvimento de Sistemas (ADS);
-* 🔎 Em busca de evolução constante;
-* 🌕 Explorando o mudo da tecnologia.
+* 👩🏽‍💻 Beginner in programming;
+* 📚 Student of Systems Analysis and Development (ADS);
+* 🔎 In search of constant evolution;
+* 🌕 Exploring the world of technology. 
 
 
 ## 📜 Tecnologias que estou aprendendo 
