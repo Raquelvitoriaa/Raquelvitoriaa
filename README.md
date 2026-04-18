@@ -13,9 +13,9 @@
 
 **👩🏽‍💻Sobre minha jornada**
 
-💻 Aprendendo e evoluindo todos os dias;
-☄️ Determinada a me tornar desenvolvedora;
-📚 Focada em lógica, código e criatividade.
+# 💻 Aprendendo e evoluindo todos os dias;
+# ☄️ Determinada a me tornar desenvolvedora;
+# 📚 Focada em lógica, código e criatividade.
 
 **⚔️ Habilidades**
 
