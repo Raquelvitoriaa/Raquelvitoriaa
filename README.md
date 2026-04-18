@@ -5,7 +5,7 @@
 </p>
 <!--GIF ONE PIECE (TENOR)-->
 <p aling="center">
-  <img src="https://tenor.com/c8HIGa8Qo0g.gif" width="500"/>
+  <img src="https://media.tenor.com/c8HiGa8Qo0gAAAAC/one-piece.gif" width="500"/>
 </p>
 <p aling="center">
   <b>"A história pode se repetir, mas as pessoas não podem voltar no tempo.</b>
