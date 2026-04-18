@@ -51,7 +51,17 @@
 
 <p align="center">
   <img src="https://media0.giphy.com/media/qimBHFPyC1b2/giphy.gif" width="500px">
-</p><p align="center">
+</p>
+<p align="center">
   <i> "The road so far..."</i>
 </p>
+<br>
+<!--IMPALA-->
+<p aling="center">
+  <img src="https://imgproxy.attic.sh/insecure/f:png/plain/https://attic.sh/z3eislhz2fh8uyu855aqatiw5xjc" width="600px">
+</p>
 
+<p align="center">
+  <i>"Now"</i>
+</p>
+<br>
