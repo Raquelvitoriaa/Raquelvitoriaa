@@ -48,3 +48,10 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-vit%C3%B3ria-3635873b5)
 
 </div>
+
+<p aling="center">
+  <img src="https://media0.giphy.com/media/quimBHFPyC1b2/giphy.gif" width="500px">
+</p>
+<p aling="center">
+  <i>🔥"The road so far..."</i>
+</p>
