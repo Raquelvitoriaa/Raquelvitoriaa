@@ -43,8 +43,7 @@
 
 ## 🎯 Contato
 
-<div aling="center">
-""LinkedIn" (https://img.shields.io/bagde/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)"(https://www.linkedin.com/in/raquel-vit%C3%B3ria-3635873b5)
+<div aling="center">""LinkedIn"(https://img.shields.io/bagde/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)"(https://www.linkedin.com/in/raquel-vit%C3%B3ria-3635873b5)
   
 </div>
 
