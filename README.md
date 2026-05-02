@@ -37,7 +37,9 @@
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Raquelvitoriaa&show_icons=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000"/>
-  
+</div>
+
+  <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquelvitoriaa&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=000000"/>
 </div>
 
@@ -48,6 +50,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raquelvitoriaa&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
 </p>
+
+---
 
 
 ## 🛡️✡ Phrases
