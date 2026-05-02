@@ -46,7 +46,7 @@
 # 🔎 Mapa da jornada
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raquelvitoriaa&bg_color=000000&color=8a0000&line=ffffff&point=380C26&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raquelvitoriaa&bg_color=000000&color=ffffff&line=8a0000&point=380C26&area=true&hide_border=true"/>
 </p>
 
 ---
