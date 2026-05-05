@@ -36,8 +36,8 @@
 ## 🧭 Records
 
 <div align="center">
-  <img height="150em" src="https:github-readme-stats.vercel.app/api?username=Raquelvitoriaa&show_icon=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000"/>
-  <img heigh="150em" src="https://github-readme-stats.vercel.app/api/top/langs/?username=Raquelvitoriaa&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=000000"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raquelvitoriaa&show_icons=true&theme=tokyonight&hide_boder=true"/>
+  <img heigh="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquelvitoriaa&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
