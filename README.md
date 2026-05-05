@@ -38,6 +38,7 @@
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Raquelvitoriaa&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raquelvitoriaa&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Raquelvitoriaa&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
