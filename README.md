@@ -36,9 +36,9 @@
 ## 🧭 Records
 
   <div align="center">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Raquelvitoriaa&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&text_color=c0c0c0&icon_color=8b0000"/>
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Raquelvitoriaa&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&text_color=c0c0c0"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Raquelvitoriaa&show_icons=true&hide_border=true&bg_color=0C1519&title_color=162127&text_color=550d08"/>
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Raquelvitoriaa&show_icons=true&hide_border=true&bg_color=0c1519&title_color=550d08&text_color=c0c0c0&icon_color=550d08"/>
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Raquelvitoriaa&layout=compact&hide_border=true&bg_color=0c1519&title_color=550d08&text_color=c0c0c0"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Raquelvitoriaa&hide_border=true&background=0c1519&ring=550d08&fire=550d08&currStreakLabel=c0c0c0&sideLabels=c0c0c0&currStreakNum=c0c0c0&sideNums=c0c0c0&dates=162127"/>
   </div>
 
 ---
