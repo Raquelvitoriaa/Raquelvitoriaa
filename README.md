@@ -1,4 +1,3 @@
-<!--FUNDO ESCURO + GIF-->
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaW9teWl2eDZsbms2MnV3b29vcXdsYzhsZXFub3ByOXoyZjZlZzZyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JlVkLKuxRSvLy/giphy.gif" width="700px">
 </p>
