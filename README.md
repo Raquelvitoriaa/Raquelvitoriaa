@@ -23,7 +23,7 @@
 
 ---
 
-## 📜 technologies that I am learning / using 
+## 📜 technologies that I am learning
 
 <div aling="center">
 <img src="https://skillicons.dev/icons?i=html,css,c,java,js,git,github,vscode" />
