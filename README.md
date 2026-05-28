@@ -36,6 +36,7 @@
 ## 🧭 Records
 
   <p align="center">
+
   <img height="170em" src="https://github-readme-stats-five-xi-15.vercel.app/api?username=Raquelvitoriaa&show_icons=true&theme=tokyonight&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
   </p>
 
@@ -44,8 +45,9 @@
 # 🔎 Mapa da jornada
 
 <p align="center">
-
-  <img height="170em" src="https://github-readme-stats-five-xi-15.vercel.app/api?username=Raquelvitoriaa&show_icons=true&theme=tokyonight&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_boder=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Raquelvitoriaa&bg_color=1c0a0a&color=b81202&line=550d08&point=f8ecac&area=true&hide_border=true"
+  />
 </p>
 
 ---
