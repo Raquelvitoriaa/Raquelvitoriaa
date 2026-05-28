@@ -34,15 +34,15 @@
 
 ## 🧭 Records
 
-  <div align="center">
+  <p align="center">
   <img height="170em" src="https://github-readme-stats-five-xi-15.vercel.app/api?username=Raquelvitoriaa&show_icons=true&theme=tokyonight&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
   &nbsp;
   <img height="170em" src="https://github-readme-stats-five-xi-15.vercel.app/api/top-langs/?username=Raquelvitoriaa&layout=compact&theme=tokyonight&title_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
-  </div>
+  </p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raquelvitoriaa&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
-  </div>
+  </p>
 
 ---
 
