@@ -1,9 +1,11 @@
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaW9teWl2eDZsbms2MnV3b29vcXdsYzhsZXFub3ByOXoyZjZlZzZyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JlVkLKuxRSvLy/giphy.gif" width="700px">
 </p>
-<h1 aling="center">
+
+<h1 align="center">
 🩸 ℌ𝔦 𝔣𝔯𝔦𝔢𝔫𝔡𝔰! ℑ'𝔪 ℜ𝔞𝔮𝔲𝔢𝔩 𝔙𝔦𝔱𝔬𝔯𝔦𝔞 🩸
 </h1>
+
 <p align="center">
   <i>"You can't escape the past."</i>
 </p>
@@ -27,7 +29,6 @@
 
 <div aling="center">
 <img src="https://skillicons.dev/icons?i=html,css,c,java,js,git,github,vscode" />
-
 </div>
 
 ---
@@ -43,7 +44,8 @@
 # 🔎 Mapa da jornada
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raquelvitoriaa&bg_color=1c0a0a&color=b81202&line=550d08&point=f8ecac&area=true&hide_border=true"/>
+
+  <img height="170em" src="https://github-readme-stats-five-xi-15.vercel.app/api?username=Raquelvitoriaa&show_icons=true&theme=tokyonight&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_boder=true" />
 </p>
 
 ---
