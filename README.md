@@ -35,9 +35,13 @@
 ## 🧭 Records
 
   <div align="center">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Raquelvitoriaa&show_icons=true&hide_border=true&bg_color=0c1519&title_color=550d08&text_color=c0c0c0&icon_color=550d08"/>
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Raquelvitoriaa&layout=compact&hide_border=true&bg_color=0c1519&title_color=550d08&text_color=c0c0c0"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Raquelvitoriaa&hide_border=true&background=0c1519&ring=550d08&fire=550d08&currStreakLabel=c0c0c0&sideLabels=c0c0c0&currStreakNum=c0c0c0&sideNums=c0c0c0&dates=162127"/>
+  <img height="170em" src="https://github-readme-stats-five-xi-15.vercel.app/api?username=Raquelvitoriaa&show_icons=true&theme=tokyonight&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
+  &nbsp;
+  <img height="170em" src="https://github-readme-stats-five-xi-15.vercel.app/api/top-langs/?username=Raquelvitoriaa&layout=compact&theme=tokyonight&title_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
+  </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raquelvitoriaa&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
   </div>
 
 ---
