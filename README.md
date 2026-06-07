@@ -40,6 +40,10 @@
   <img height="170em" src="https://github-readme-stats-five-xi-15.vercel.app/api?username=Raquelvitoriaa&show_icons=true&theme=tokyonight&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
   </p>
 
+  <p align="center">
+  <img height="170em" src="https://github-readme-stats-five-xi-15.vercel.app/api/top-langs/?username=Raquelvitoriaa&layout=compact&theme=transparent&title_color=FF0000&text_color=F5F5F5&bg_color=000000"/>
+</p>
+
 ---
 
 # 🔎 Mapa da jornada
