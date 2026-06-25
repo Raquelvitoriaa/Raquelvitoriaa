@@ -45,7 +45,7 @@
 </p>
 
 <div data-importer="stats" align="center">
-  <img src="https://demolab.com" height="150" alt="streak graph" />
+  <img src="https://demolab.com" height="150" alt="streak graph"/>
 </div>
 
 ---
