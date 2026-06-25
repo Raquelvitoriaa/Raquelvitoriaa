@@ -90,6 +90,11 @@
 
 <p aling="center">
 <b style="color:red;">"The road so far..."</b>
-</p><br><p
+</p><br><p align="center">
+<img src="https://imgproxy.attic.sh/insecure/f:png/plain/https://attic.sh/oj5hbxm3tmndwphh382g11onprit" width="600px">
+</p><p align="center">
+<i>"Baby is home."</i>
+</p><br><p align="center">
+
 
 ---
