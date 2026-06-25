@@ -44,6 +44,12 @@
   <img height="170em" src="https://github-readme-stats-five-xi-15.vercel.app/api/top-langs/?username=Raquelvitoriaa&layout=compact&theme=transparent&title_color=FF0000&text_color=F5F5F5&bg_color=000000"/>
 </p>
 
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Raquelvitoriaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Raquelvitoriaa/Raquelvitoriaa/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 ---
 
 # 🔎 Mapa da jornada
