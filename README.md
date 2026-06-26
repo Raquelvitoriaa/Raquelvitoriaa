@@ -92,7 +92,7 @@
 <b style="color:red;">"The road so far..."</b>
 </p><br>
 <p align="center">
-<img width="600" height="600" alt="Supernatural Stickers" src="https://github.com/user-attachments/assets/7467b4af-4a20-4e36-a7c0-cb123bf0488d" />
+<img width="480" height="253" alt="giphy" src="https://github.com/user-attachments/assets/a13bcc02-58d0-4ff6-b683-c2c703f6c7b1" />
 </p>
 <p align="center">
 <i>"Baby is home."</i>
