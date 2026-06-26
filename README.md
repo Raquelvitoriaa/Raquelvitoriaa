@@ -100,8 +100,7 @@
 🩸⬇🩸
 </p><br>
 <p align="center">
-<img width="245" height="200" alt="giphy" src="https://github.com/user-attachments/assets/bece7d50-e322-4050-8d1b-2029dc235dc8" />
-
+<img width="500" height="275" alt="giphy" src="https://github.com/user-attachments/assets/099ec56b-8353-46fd-9f65-9a348f70acfa" />
 </p>
 <p align="center">
 <i>"...we carry on."</i>
