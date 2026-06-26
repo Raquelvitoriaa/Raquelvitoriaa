@@ -48,6 +48,10 @@
   <img src="https://streak-stats.demolab.com?user=Raquelvitoriaa&locale=en&mode=dark&theme=tokyonigth&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
+<div data-importer="stats" align="center"> 
+  <img src="https://demolab.com" height="150" alt="streak graph" /> 
+</div>
+
 ---
 
 # 🔎 Mapa da jornada
