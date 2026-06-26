@@ -90,19 +90,24 @@
 
 <p aling="center">
 <b style="color:red;">"The road so far..."</b>
-</p><br><p align="center">
+</p><br>
+<p align="center">
 <img width="600" height="600" alt="Supernatural Stickers" src="https://github.com/user-attachments/assets/7467b4af-4a20-4e36-a7c0-cb123bf0488d" />
-</p><p align="center">
+</p>
+<p align="center">
 <i>"Baby is home."</i>
 </p><br><p align="center">
 🩸⬇🩸
-</p><br><p align="center">
+</p><br>
+<p align="center">
 <img src="https://media0.giphy.com/media/qimBHFPyC1b2/giphy.gif" width="500px">
-</p><p align="center">
+</p>
+<p align="center">
 <i>"...we carry on."</i>
 </p><br><p align="center">
 <img src="https://readme-typing-svg.herojuapp.com/?color=FF0000&size=22&center=true&vcenter=true&width=650&lines=carry+on+my+wayward+son...;There`ll+be+peace+when+you+are+done...;Don`t+you+cry+no+more...🩸">
-</p><br><p align="center">
+</p><br>
+<p align="center">
 <b>Carry on...</b>
 </p>
 
