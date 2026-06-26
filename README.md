@@ -105,7 +105,7 @@
 <p align="center">
 <i>"...we carry on."</i>
 </p><br><p align="center">
-<img src="https://readme-typing-svg.demolab.com/demo/?color=A10000&lines=Carry+on+my+wayward+son...;There%60ll+be+peace+when+you+are+done...;Lay+your+weary+head+to+rest...;Don%60t+you+cry+no+more...">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=600&lines=Carry+on,+my+mayward+son...;+There´ll+be+peace+when+you+are+done...;+Lay+your+weary+head+to+rest...;Don`t+you+cry+no+more....🩸">
 </p><br>
 <p align="center">
 <b>Carry on...</b>
