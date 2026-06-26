@@ -105,7 +105,7 @@
 <p align="center">
 <i>"...we carry on."</i>
 </p><br><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=22&center=true&vcenter=true&width=650&lines=carry+on+my+wayward+son...;There`ll+be+peace+when+you+are+done...;Lay+your+weary+head+to+rest...;Don`t+you+cry+no+more...🩸">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A10000&width=435&lines=Carry+on+my+wayward+son...;There%60ll+be+peace+when+you+are+done...;Lay+your+weary+head+to+rest...;Don%60t+you+cry+no+more...🩸" alt="Typing SVG" /></a>
 </p><br>
 <p align="center">
 <b>Carry on...</b>
