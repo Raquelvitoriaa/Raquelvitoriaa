@@ -106,7 +106,7 @@
 <p align="center">
 <i>"...we carry on."</i>
 </p><br><p align="center">
-  <img width="364" height="200" alt="200" src="https://github.com/user-attachments/assets/aa23da0c-dfeb-4e63-9a32-4e14542a1dce" />
+  <img width="354" height="200" alt="200" src="https://github.com/user-attachments/assets/67b776b2-3546-4209-9557-01ddea05f91c" />
 </p><br>
 <p align="center">
 <b>Carry on...</b>
