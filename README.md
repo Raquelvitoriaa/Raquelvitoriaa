@@ -85,28 +85,6 @@
 
 ---
 
-<p aling="center">
-<b style="color:red;">"The road so far..."</b>
-</p><br>
-<p align="center">
-<img width="480" height="253" alt="giphy" src="https://github.com/user-attachments/assets/a13bcc02-58d0-4ff6-b683-c2c703f6c7b1" />
-</p>
-<p align="center">
-<i>"Baby is home."</i>
-</p><br><p align="center">
-🩸⬇🩸
-</p><br>
-<p align="center">
-<img width="500" height="275" alt="giphy" src="https://github.com/user-attachments/assets/099ec56b-8353-46fd-9f65-9a348f70acfa" />
-</p>
-<p align="center">
-<i>"...we carry on."</i>
-</p><br><p align="center">
-  <img width="450" height="254" alt="giphy" src="https://github.com/user-attachments/assets/14bd7276-cd33-4dbc-95c6-5243f51f0253" />
-</p><br>
-<p align="center">
-<b>Carry on...</b>
-</p><br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=600&lines=Carry+on,+my+mayward+son...;+There´ll+be+peace+when+you+are+done...;+Lay+your+weary+head+to+rest...;Don`t+you+cry+no+more....🩸">
 </p>
