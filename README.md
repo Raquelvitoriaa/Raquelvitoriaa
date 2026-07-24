@@ -25,7 +25,7 @@
 
 ---
 
-## 📜 technologies that I am learning
+## 📜 My Arsenal 
 
 <div aling="center">
 <img src="https://skillicons.dev/icons?i=html,css,c,java,js,git,github,vscode" />
@@ -50,7 +50,7 @@
 
 ---
 
-# 🔎 Mapa da jornada
+# 🔎 Journey map
 
 <p align="center">
   <img 
@@ -64,7 +64,7 @@
 ## 🛡️✡ Phrases
 
 > * "We save people, that's what we do." *
-> * "You can choose your own destiny." *
+  * "You can choose your own destiny." *
 
 ---
 
