@@ -64,7 +64,7 @@
 ## 🛡️✡ Phrases
 
 > * "We save people, that's what we do." *
-  * "You can choose your own destiny." *
+> * "You can choose your own destiny." *
 
 ---
 
