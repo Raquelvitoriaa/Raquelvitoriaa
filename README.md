@@ -143,8 +143,11 @@ Threat Level...:100%
 # THE HUNTER
 
 > "Monsters are real.
+
 > Ghosts are real.
+
 > Demons are real
+
 > Bugs in code are even worse."
 
 
