@@ -127,8 +127,7 @@ nova capa
 
 # HUNTER DOSSIER
 
-```text
-yaml
+```yaml
 Hunter ID......:RV-1973
 Hunter Name....:Raquel Vitória
 Hunter Class...:Full-Stack Apprentice
