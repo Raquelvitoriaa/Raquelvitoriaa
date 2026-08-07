@@ -101,13 +101,9 @@
 
 nova capa
 
-<!--=====================================================================================================================================-->
-<!--            SUPERNATURAL HUNTER README    -->
-<!--======================================================================================================================================-->
-
 <div align="center">
   
-<img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,35:200000,70:5b0000,100:000000&text=THE%20HUNTER´S%20JOURNAL&fontColor=ffffff&fontSize=48&animation=fadeln&fontAlignY=40"/>
+<img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,35:200000,70:5b0000,100:000000&text=MEN%20OF%20LETTERS&fontColor=ffffff&fontSize=48&animation=fadeln&fontAlignY=40"/>
   
 </div>
 
@@ -125,29 +121,24 @@ nova capa
 
 ---
 
-# HUNTER DOSSIER
+<div align="center">
+  
+# MEN OF LETTERS ARCHIVES
 
-```yaml
-Hunter ID......:RV-1973
-Hunter Name....:Raquel Vitória
-Hunter Class...:Full-Stack Apprentice
-Affiliation....:Men of Letters Archives
-Current Mission:ADS C Java JavaScript
-Status.........:Active
-Threat Level...:100%
+```text
+ACCESS LEVEL..........LEVEL V
+VERIFYING IDENTITY.......100%
+STATUS................AUTHORIZED
+OPENING ARCHIVES...
 ```
+
+</div>
 
 ---
 
-# THE HUNTER
-
-> "Monsters are real.
-> 
-> Ghosts are real.
-> 
-> Demons are real
-> 
-> Bugs in code are even worse."
+<div align="center">
+  
+</div>
 
 
 
