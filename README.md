@@ -97,3 +97,75 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Raquelvitoriaa/Raquelvitoriaa/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
+---
+
+nova capa
+
+<!--=====================================================================================================================================-->
+<!--            SUPERNATURAL HUNTER README    -->
+<!--======================================================================================================================================-->
+
+<div align="center">
+  
+<img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,35:200000,70:5b0000,100:000000&text=THE%20HUNTER´S%20JOURNAL&fontColor=ffffff&fontSize=48&animation=fadeln&fontAlignY=40"/>
+  
+</div>
+
+---
+
+<div align="center">
+
+# THE WINCHESTER ARCHIVES
+
+### "Saving people. Hunting things. The family business."
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=2500&color=B22222&center=true&vCenter=true&width=900&lines=Initializing+Hunter+Database...;Opening+The+Winchester+Journal...;Loading+Ancient+Men+of+Letters+Archives...;Searching+for+Supernatural+Entities...;Protecting+Humanity...;Saving+People,+Hunting+Things...;The+Family+Business."/>
+
+</div>
+
+---
+
+# HUNTER DOSSIER
+
+yaml
+Hunter ID......:RV-1973
+Hunter Name....:Raquel Vitória
+Hunter Class...:Full-Stack Apprentice
+Affiliation....:Men of Letters Archives
+Current Mission:ADS C Java JavaScript
+Status.........:Active
+Threat Level...:100%
+
+---
+
+# THE HUNTER
+
+"Monsters are real.
+>
+Ghosts are real.
+>
+Demons are real
+>
+Bugs in code are even worse."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
