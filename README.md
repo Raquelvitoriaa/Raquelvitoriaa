@@ -127,7 +127,7 @@ nova capa
 
 ```text
 ACCESS LEVEL..........LEVEL V
-VERIFYING IDENTITY.......100%
+VERIFYING IDENTITY.......■■■■■■■■■■■■■■■■■■■■ 100%
 STATUS................AUTHORIZED
 OPENING ARCHIVES...
 ```
