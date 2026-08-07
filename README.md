@@ -138,10 +138,55 @@ OPENING ARCHIVES...
 
 <div align="center">
   
-  <img src="https://readme-typing
+  <img src="https://readme-typing-svg.demoland.com?font=Cinzel&weight=700&size=22&pause=2500&color=8B0000&center=true&Center=true&vCenter=true&with=900&lines=Iniializing+Hunter+Database...;Connecting+to+the+Men+of+Letters...;Opening+The+Wincherster+Journal...;Searching+Archives...;Hunter+Loading+Case+Files...;Saving+People,+Hunting+Things,+The+Family+Business."/>
   
 </div>
 
+---
+
+# WARNING
+
+> ## CONFIDENTIAL DOCUMENT
+
+```text
+This archive belongs to the Man of Latters.
+
+Unauthorized access may expose the reader to ghosts, demons, angels, cursed objects, and unfinished programing projects.
+
+Proceed at your own risk.
+```
+
+---
+
+# JOURNAL ENTRY #001
+
+> *Date Unknown*
+
+The bunker has registred the arrival of a new hunter.
+Umlike most hunters, her weapons are not silver bullets or angel blades.
+She fights with algorithms.
+She studies forgotthen languages.
+She breaks ancient curses...
+...called bugs.
+This jounal will record every step of her journey.
+Welcome to the Archives.
+
+---
+
+<div align="center">
+
+# HUNTER DOSSIER
+
+```yaml
+Hunter Name:Raquel Vitória
+Hunter Class:
+Current Rank:Aprentice Hunter
+Affiliation:
+Current Mission:Analysis and Systems Development
+
+```
+
+</div>
 
 
 
