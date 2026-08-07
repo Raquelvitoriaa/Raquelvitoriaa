@@ -127,6 +127,7 @@ nova capa
 
 # HUNTER DOSSIER
 
+```text
 yaml
 Hunter ID......:RV-1973
 Hunter Name....:Raquel Vitória
@@ -135,18 +136,16 @@ Affiliation....:Men of Letters Archives
 Current Mission:ADS C Java JavaScript
 Status.........:Active
 Threat Level...:100%
+```
 
 ---
 
 # THE HUNTER
 
-"Monsters are real.
->
-Ghosts are real.
->
-Demons are real
->
-Bugs in code are even worse."
+> "Monsters are real.
+> Ghosts are real.
+> Demons are real
+> Bugs in code are even worse."
 
 
 
