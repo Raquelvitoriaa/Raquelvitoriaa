@@ -138,6 +138,8 @@ OPENING ARCHIVES...
 
 <div align="center">
   
+  <img src="https://readme-typing
+  
 </div>
 
 
