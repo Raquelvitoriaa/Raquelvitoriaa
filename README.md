@@ -145,10 +145,11 @@ nova capa
 # MEN OF LETTERS ARCHIVES
 
 ```text
+
 ACCESS LEVEL..........LEVEL V
 VERIFYING IDENTITY.......■■■■■■■■■■■■■■■■■■■■ 100%
 STATUS................AUTHORIZED
-OPENING ARCHIVES...
+OPENING ARCHIVES......
 ```
 
 </div>
@@ -157,7 +158,7 @@ OPENING ARCHIVES...
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demoland.com?font=Cinzel&weight=700&size=22&pause=2500&color=8B0000&center=true&Center=true&vCenter=true&with=900&lines=Iniializing+Hunter+Database...;Connecting+to+the+Men+of+Letters...;Opening+The+Wincherster+Journal...;Searching+Archives...;Hunter+Loading+Case+Files...;Saving+People,+Hunting+Things,+The+Family+Business."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&."/>
   
 </div>
 
