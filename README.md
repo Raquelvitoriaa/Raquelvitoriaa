@@ -170,6 +170,18 @@ Affiliation:
 Current Mission:Analysis and Systems Development
 
 Primary Weapons:
+HTML
+CSS
+JavaScript
+C
+
+Status:
+ACTIVE
+
+Threat Leavel:
+
+Journal Status:
+OPEN
 ```
 
 </div>
