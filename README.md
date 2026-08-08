@@ -198,7 +198,8 @@ C
 Status:
 ACTIVE
 
-Threat Leavel:
+Threat Level:
+███████████████ 100%
 
 Journal Status:
 OPEN
