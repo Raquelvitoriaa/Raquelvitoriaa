@@ -1,6 +1,21 @@
 <div align="center">
+  
 <img widht="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,35:200000,70:5b0000,100:000000"/>
+  
 </div>
+
+---
+
+<div align="center">
+
+# THE WINCHESTER ARCHIVES
+
+### "Saving people. Hunting things. The family business."
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=2500&color=B22222&center=true&vCenter=true&width=900&lines=Initializing+Hunter+Database...;Opening+The+Winchester+Journal...;Loading+Ancient+Men+of+Letters+Archives...;Searching+for+Supernatural+Entities...;Protecting+Humanity...;Saving+People,+Hunting+Things...;The+Family+Business."/>
+</div>
+
+---
 
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaW9teWl2eDZsbms2MnV3b29vcXdsYzhsZXFub3ByOXoyZjZlZzZyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JlVkLKuxRSvLy/giphy.gif" width="700px">
