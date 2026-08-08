@@ -207,8 +207,21 @@ OPEN
 
 </div>
 
+# PERSONAL NOTES
 
+> Journal Entry - 02/03/2026
+>
+> Hinter: Raquel Vitória
+> Class: Analysis and Systems Development
+> Status: Journey Initiated
 
+<h1 align="center">
+🩸 ℌ𝔦 𝔣𝔯𝔦𝔢𝔫𝔡𝔰! ℑ'𝔪 ℜ𝔞𝔮𝔲𝔢𝔩 𝔙𝔦𝔱𝔬𝔯𝔦𝔞 🩸
+</h1>
+
+I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, I started my programming journey.
+
+> Today, I am happy to look back and realize that a great dream has finally begun to take shape.
 
 
 
