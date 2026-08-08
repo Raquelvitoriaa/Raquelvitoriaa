@@ -211,8 +211,10 @@ OPEN
 
 > Journal Entry - 02/03/2026
 >
-> Hinter: Raquel Vitória
+> Hunter: Raquel Vitória
+> 
 > Class: Analysis and Systems Development
+> 
 > Status: Journey Initiated
 
 <h1 align="center">
