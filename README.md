@@ -12,7 +12,7 @@
 
 ### "Saving people. Hunting things. The family business."
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=2500&color=B22222&center=true&vCenter=true&width=900&lines=Initializing+Hunter+Database...;Opening+The+Winchester+Journal...;Loading+Ancient+Men+of+Letters+Archives...;Searching+for+Supernatural+Entities...;Protecting+Humanity...;Saving+People,+Hunting+Things...;The+Family+Business🗡️"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=2500&color=B22222&center=true&vCenter=true&width=900&lines=Initializing+Hunter+Database...;Opening+The+Winchester+Journal...;Loading+Ancient+Men+of+Letters+Archives...;Searching+for+Supernatural+Entities...;Protecting+Humanity...;Saving+People,+Hunting+Things...;The+Family+Business.🗡️"/>
 </div>
 
 ---
@@ -27,9 +27,9 @@
 
 > **Journal Entry - 02/03/2026**
 >
-> **Hunter:**Raquel Vitória
-> **Class:**Analysis and Systems Development
-> **Status:**Journey ninitiaded
+>  **Hunter:**Raquel Vitória
+>  **Class:**Analysis and Systems Development
+>  **Status:**Journey ninitiaded
 
 I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, I started my programming journey.
 
