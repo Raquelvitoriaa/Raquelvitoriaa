@@ -27,9 +27,9 @@
 
 > **Journal Entry - 02/03/2026**
 >
->> **Hunter:**Raquel Vitória
->> **Class:**Analysis and Systems Development
->> **Status:**Journey ninitiaded
+ **Hunter:**Raquel Vitória
+ **Class:**Analysis and Systems Development
+> **Status:**Journey ninitiaded
 
 I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, I started my programming journey.
 
