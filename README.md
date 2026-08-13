@@ -12,7 +12,7 @@
 
 ### "Saving people. Hunting things. The family business."
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=2500&color=B22222&center=true&vCenter=true&width=900&lines=Initializing+Hunter+Database...;Opening+The+Winchester+Journal...;Loading+Ancient+Men+of+Letters+Archives...;Searching+for+Supernatural+Entities...;Protecting+Humanity...;Saving+People,+Hunting+Things...;The+Family+Business."/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=2500&color=B22222&center=true&vCenter=true&width=900&lines=Initializing+Hunter+Database...;Opening+The+Winchester+Journal...;Loading+Ancient+Men+of+Letters+Archives...;Searching+for+Supernatural+Entities...;Protecting+Humanity...;Saving+People,+Hunting+Things...;The+Family+Business🗡️"/>
 </div>
 
 ---
@@ -25,12 +25,18 @@
 🩸 ℌ𝔦 𝔣𝔯𝔦𝔢𝔫𝔡𝔰! ℑ'𝔪 ℜ𝔞𝔮𝔲𝔢𝔩 𝔙𝔦𝔱𝔬𝔯𝔦𝔞 🩸
 </h1>
 
-<p align="center">
-  <i>"You can't escape the past."</i>
-</p>
+> **Journal Entry - 02/03/2026**
+>
+> **Hunter:**Raquel Vitória
+> **Class:**Analysis and Systems Development
+> **Status:**Journey ninitiaded
+
+I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, I started my programming journey.
+
+> Today, I am happy to look back and realize that a great dream has finally begun to take shape.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=25&center=true&vCenter=true&width=600&lines=Saving+people...;+hunting+things...;+the+family+business+🗡️...">
+  <i>"You can't escape the past."</i>
 </p>
 
 ---
