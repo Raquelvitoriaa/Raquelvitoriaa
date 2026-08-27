@@ -4,8 +4,6 @@
   
 </div>
 
----
-
 <div align="center">
 
 # THE WINCHESTER ARCHIVES
@@ -117,3 +115,42 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 </picture>
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Nova capa!?-->
+
+<!--HEAD-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,35:200000,70:5b0000,100:000000" width="100%" />
+<br>
+
+<img 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
