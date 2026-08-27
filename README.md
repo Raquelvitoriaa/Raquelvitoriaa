@@ -71,8 +71,7 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Raquelvitoriaa&bg_color=1c0a0a&color=b81202&line=550d08&point=f8ecac&area=true&hide_border=true"
-  />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Raquelvitoriaa&bg_color=1c0a0a&color=b81202&line=550d08&point=f8ecac&area=true&hide_border=true" />
 </p>
 
 ---
