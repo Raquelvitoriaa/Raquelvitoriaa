@@ -74,6 +74,18 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Raquelvitoriaa&bg_color=1c0a0a&color=b81202&line=550d08&point=f8ecac&area=true&hide_border=true" />
 </p>
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Raquelvitoriaa/Raquelvitoriaa/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Raquelvitoriaa/Raquelvitoriaa/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Raquelvitoriaa&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=4&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Raquelvitoriaa/Raquelvitoriaa/trophy-output/trophy.svg?theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/Raquelvitoriaa/Raquelvitoriaa/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false&bg_color=0B0B0B&line=550d08&color=FFF&point=f8ecac&area_color=1c0a0a&title_color=FFF" height="300" alt="activity-graph graph"  />
+</div>
+
+
+
+
+
 ---
 
 
