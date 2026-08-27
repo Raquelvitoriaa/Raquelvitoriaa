@@ -131,10 +131,31 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 
 <!--HEAD-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,35:200000,70:5b0000,100:000000" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,35:200000,70:5b0000,100:000000&section=header&text=Raquel%20vitória&fontSize=42&fontColor=B30000" width="100%" />
 <br>
 
-<img 
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=2500&color=B22222&center=true&vCenter=true&width=900&lines=Initializing+Hunter+Database...;Opening+The+Winchester+Journal...;Loading+Ancient+Men+of+Letters+Archives...;Searching+for+Supernatural+Entities...;Protecting+Humanity...;Saving+People,+Hunting+Things...;The+Family+Business."/>
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raquelvitoriaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raquelvitoriaa)
+
+</div>
+
+---
+
+<div align="center">
+
+## THE HUNTER
+
+> *The road so far...*
+
+</div>
+
+Hello! I`m **Raquel Vitória**, a **Systems Analysis and Development (ADS)** student and a developer in training. <br> My programming journey officially began on **March 2nd, 2026**. <br> Since then, i´ve been transforming curiosity into code, studying, creating projects, and learning from every mistake i´ve encounterend along the way. <br> My current focus is ob building a solid foundation in **programming, software development, and logic**, always putting my knowledge into pratice.
+
+> **The hunt has just  
 
 
 
