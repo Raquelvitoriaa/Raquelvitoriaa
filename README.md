@@ -44,8 +44,22 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 
 ## 📜 My Arsenal 
 
-<div aling="center">
-<img src="https://skillicons.dev/icons?i=html,css,c,java,js,git,github,vscode" />
+### Front-end
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js"/>
+</div>
+
+### Back-end
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,java" />
+</div>
+
+### Tools 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,node.js" />
 </div>
 
 ---
