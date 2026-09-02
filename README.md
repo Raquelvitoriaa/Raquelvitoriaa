@@ -53,8 +53,14 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 ### Back-end
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,java" />
+<img src="https://skillicons.dev/icons?i=java" />
 </div>
+
+### Fundamentals & Low level
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c" />
+<p>Proficiency in programming logic, data structures, and algorithms.</p>
 
 ### Tools 
 
