@@ -59,7 +59,7 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 ### Tools 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,node.js" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs" />
 </div>
 
 ---
