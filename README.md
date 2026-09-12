@@ -109,7 +109,7 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquelvitoriaa)
 
-  [![GitHub](https://img.shields.io/badge/GitHub-472f1b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raquelvitoriaa)
+  [![GitHub](https://img.shields.io/badge/GitHub-130F0D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raquelvitoriaa)
 </div>
 
 ---
