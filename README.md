@@ -53,7 +53,7 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 ### Back-end
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=java,nodejs,typescipt" />
 </div>
 
 ### Fundamentals & Low level
@@ -65,7 +65,7 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 ### Tools 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode," />
 </div>
 
 ---
