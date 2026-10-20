@@ -128,6 +128,12 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 
 ---
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Raquelvitoriaa?theme=ai-1&padding=7&offset=6&scale=1&align=top&pixelated=1&darkmode=1"  />
+</div>
+
+---
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raquelvitoriaa/Raquelvitoriaa/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raquelvitoriaa/Raquelvitoriaa/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
