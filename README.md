@@ -141,3 +141,8 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 </picture>
 
 ---
+
+<!--ATUALIZAÇÂO-->
+
+
+
