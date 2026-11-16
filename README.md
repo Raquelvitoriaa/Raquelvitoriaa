@@ -146,3 +146,21 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 
 
 
+<p align="center">
+<img src="https://assets/banner-hunter.svg" width="100%" alt="The Archives - Hunter`s Journal"/>
+</p>
+
+<p align="center"><code>>_Salvando pessoas, caçando bugs, o negócio da família.</code></p>
+
+<!--Portiforlio
+<a href""><img src="https://img.shields.io/badge/PORTFOLIO-333732?style=for-the-badge&logo=firefox&logoColor=D0BC79" alt="Portfolio"/>-->
+
+<p align="center">
+<a href="[https://www.linkedin.com/in/raquelvitoriaa/]"><img src="https://img.shields.io/badge/LINKEDIN-472F1B?style=for-the-badge&logolinkedin&logoColor=D0BC79" alt="Linkedin"/></a>
+<a href="mailto:[raqueldvitoria@gmail.com]"><img src="https://img.shields.io/badge/EMAIL-D0BC79?style=for-the-badge&logo=gmail&logoColor=333732" alt="Email"/></a>
+</p>
+
+<p align="center">
+<img src="assets/hunter-card.svg"
+
+
