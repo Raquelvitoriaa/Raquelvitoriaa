@@ -1,0 +1,28 @@
+<svg xmlns="https://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
+  <defs>
+    <pattern id="texture" width="35" height="35" patternUnits="UseSpaceOnUse">
+      <path d="M0 35 L35 0" stroke="#5B5F5E" stroke-width="0.5" opacity="0.25"/>
+      <cicle cx="8" cy="8" r="1" fill="#989070" opacity="0.2"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="350" fill="#1C1E1B"/>
+  <rect x="15" y="15" width="1170" height="320" rx="5" fill="#333732" stroke="#472F1B" stroke-width="8"/>
+  <rect x="29" y="29" width="1142" height="292" fill="url(#texture)" stroke="#989070" stroke-width="1.5"/>
+
+  <path d="M35 75 V35 H75 M1125 35 H1165 V75 M35 275 V315 H75 M1125 315 H1165 V275" fill="none" stroke="#D0BC79" stroke-width="2"/>
+
+  <g transform="translate(600 95)" fill="none" stroke="#D0BC79" stroke-width="2">
+    <cicle r="42"/>
+    <path d="M0 -42 L40 30 L-40 30 Z"/>
+    <path d="M-40 -30 L40 -30 L0 42 Z"/>
+    <cicle r="9"/>
+  </g>
+
+  <text x="600" y="180" text-anchor="middle" fill="#989070" font-family="Georgia,serif" font-size="13" letter-spacing="6">
+    THE WINCHESTER ARCHIVES
+  </text>
+
+  <text x=
+  
+</svg>
