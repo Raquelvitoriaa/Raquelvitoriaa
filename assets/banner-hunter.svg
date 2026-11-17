@@ -19,10 +19,13 @@
     <cicle r="9"/>
   </g>
 
-  <text x="600" y="180" text-anchor="middle" fill="#989070" font-family="Georgia,serif" font-size="13" letter-spacing="6">
-    THE WINCHESTER ARCHIVES
-  </text>
+  <text x="600" y="180" text-anchor="middle" fill="#989070" font-family="Georgia,serif" font-size="13" letter-spacing="6">THE WINCHESTER ARCHIVES</text>
 
-  <text x=
-  
+  <text x="600" y="225" text-anchor="middle" fill="#D0BC79" font-family="Georgia,serif" font-size="34" font-weight="bold">THE FAMILY BUSINESS</text>
+
+  <path d="M350 280 H510 M690 280 H850" stroke="#5B5F5E" stroke-width="1"/>
+  <path d="M600 274 L606 280 L600 286 L594 280 Z" fill="#D0BC79"/>
+
+  <text x="600" y="305" text-anchor="middle" fill="#989070" font-family="monospace" font-size="10" letter-spacing"3"/>HUNTER`S JOURNAL//EST.2026
+  </text>
 </svg>
