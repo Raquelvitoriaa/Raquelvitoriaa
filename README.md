@@ -147,10 +147,10 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 
 
 <p align="center">
-<img src="https://assets/banner-hunter.svg" width="100%" alt="The Archives - Hunter`s Journal"/>
+<img src="assets/banner-hunter.svg" width="100%" alt="The Archives - Hunter`s Journal"/>
 </p>
 
-<p align="center"><code>>_Salvando pessoas, caçando bugs, o negócio da família.</code></p>
+<p align="center"><code>> _Salvando pessoas, caçando bugs, o negócio da família.</code></p>
 
 <!--Portiforlio
 <a href""><img src="https://img.shields.io/badge/PORTFOLIO-333732?style=for-the-badge&logo=firefox&logoColor=D0BC79" alt="Portfolio"/>-->
@@ -161,6 +161,18 @@ I am a student of **Systems Analysis and Development**, and on March 2nd, 2026, 
 </p>
 
 <p align="center">
-<img src="assets/hunter-card.svg"
+<img src="assets/hunter-card.svg" width="85%" alt="Hunter Identification Card"/>
+</p>
+
+---
+
+<h2 align="left">01 // SOBRE <sub>- HUNTER.FILE</sub></h2>
+
+<p>
+  <img align="right" width="180" src="assets/hunter-card.svg" alt="Hunter Identification"/>
+</p>
+
+# ARQUIVO DE IDENTIFICAÇÃO
+
 
 
