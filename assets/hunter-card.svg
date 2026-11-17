@@ -1,1 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
 
+  <rect widht="900" height="300" rx="12" fill="#1C1E1B"/>
+
+  <rect x="8" y="8" width="884" height="284" rx="10" fill="#333732" stroke="#472F1B" stroke-widht="7"/>
+
+  <text x="40" y="55" fill="#D0BC79" font-family="Georgia,serif" font-size="21" font-weight="bold" letter-spacing="3">HUNTER IDENTIFICATION</text>
+
+  
